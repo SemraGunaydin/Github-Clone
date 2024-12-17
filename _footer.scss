@@ -1,0 +1,24 @@
+.footer-container{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+    height: 100;
+    margin-top: 400px;
+    padding: 50px 50px 70px;
+    color: rgb(74, 72, 72);
+    font-size: $my-font;
+    h4,
+    a,
+    small{
+        font-size: $my-font;
+        color: #fff;
+
+    }
+
+
+}
+
+
