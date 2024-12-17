@@ -1,7 +1,5 @@
 
-![github-logo-6004](https://github.com/user-attachments/assets/a947e463-9404-42f6-9f6d-15f5bd456b5d)
-
-# GitHub Clone
+# 🔭 GitHub Clone 😻
 
 This project is a GitHub user profile interface clone, built with modern HTML5 and SCSS. The design is modular, making project management and scalability easier with SCSS features such as variables, partials, and mixins.
 
