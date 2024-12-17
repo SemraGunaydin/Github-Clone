@@ -1,8 +1,8 @@
-![GithubCatGIF](https://github.com/user-attachments/assets/8687a896-ef6d-47d9-91a4-c895b0b36fbe)
+
+ ![GithubBelovedGIF](https://github.com/user-attachments/assets/75dcf68f-dede-4a89-982f-e02b83ea2456)
 
 
-
-# GitHub Clone 
+# GitHub Clone
 This project is a GitHub user profile interface clone, built with modern HTML5 and SCSS. The design is modular, making project management and scalability easier with SCSS features such as variables, partials, and mixins.
 
 
