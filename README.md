@@ -8,7 +8,7 @@ This project is a GitHub user profile interface clone, built with modern HTML5 a
 - Modern design using HTML5 and SCSS
 - Easily customizable and extendable
 
-# Technologies Used 🛠️
+# 🧰 Technologies Used 🛠️
 - HTML5: For semantic and structured markup
 - SCSS: For modular and maintainable styling
 
@@ -17,4 +17,13 @@ This project is a GitHub user profile interface clone, built with modern HTML5 a
   
 ![Github-clone](https://github.com/user-attachments/assets/ae040b43-3087-48c3-a976-54ad226af0a0)
 
+# 🤝 Contributing
+Contributions are welcome! If you find any bugs or have suggestions, feel free to open an issue or submit a pull request.
 
+# 🌟 Acknowledgments
+Special thanks to Coffee Espresso for providing an inspiring layout to replicate. This project is for educational purposes only and is not affiliated with Coffee Espresso .
+
+
+ # 📧 Contact
+
+gunaydinsemra34@gmail.com
