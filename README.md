@@ -1,8 +1,12 @@
+![GithubCatGIF](https://github.com/user-attachments/assets/8687a896-ef6d-47d9-91a4-c895b0b36fbe)
+
+
+
 # GitHub Clone 
 This project is a GitHub user profile interface clone, built with modern HTML5 and SCSS. The design is modular, making project management and scalability easier with SCSS features such as variables, partials, and mixins.
 
 
-# Features ✨
+# ✨ Features 
 - Clean and responsive user profile UI
 - Modular SCSS structure for better project management
 - Modern design using HTML5 and SCSS
@@ -12,7 +16,7 @@ This project is a GitHub user profile interface clone, built with modern HTML5 a
 - HTML5: For semantic and structured markup
 - SCSS: For modular and maintainable styling
 
-  # Preview
+  # 📸 Preview 🎞️🎬
 
   
 ![Github-clone](https://github.com/user-attachments/assets/ae040b43-3087-48c3-a976-54ad226af0a0)
@@ -21,7 +25,7 @@ This project is a GitHub user profile interface clone, built with modern HTML5 a
 Contributions are welcome! If you find any bugs or have suggestions, feel free to open an issue or submit a pull request.
 
 # 🌟 Acknowledgments
-Special thanks to Coffee Espresso for providing an inspiring layout to replicate. This project is for educational purposes only and is not affiliated with Coffee Espresso .
+Special thanks to Github for providing an inspiring layout to replicate. This project is for educational purposes only and is not affiliated with Github .
 
 
  # 📧 Contact
