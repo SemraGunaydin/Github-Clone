@@ -28,4 +28,4 @@ Special thanks to Github for providing an inspiring layout to replicate. This pr
 
  # 📧 Contact
 
-gunaydinsemra34@gmail.com
+semra.gunaydinwork@outlook.com
